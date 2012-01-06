@@ -1,0 +1,12 @@
+#
+#
+#
+
+menuconfig SAMSUNG_PHONE_MODEMCTL
+	tristate "Samsung Phone Interface - MODEMCTL"
+	default n
+	---help---
+		I love you.
+
+#if SAMSUNG_PHONE_MODEMCTL
+#endif # SAMSUNG_PHONE_MODEMCTL
